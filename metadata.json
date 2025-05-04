@@ -1,0 +1,10 @@
+{
+    "name": "Ultrawide Maximiser",
+    "description": "Ultrawide Maximiser",
+    "uuid": "uw-maximiser@burgr033.github.com",
+    "url": "https://github.com/burgr033/ultrawide-maximiser",
+    "settings-schema": "org.gnome.shell.extensions.uw-maximiser",
+    "shell-version": [
+        "48"
+    ]
+}

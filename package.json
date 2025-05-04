@@ -1,0 +1,28 @@
+{
+  "name": "uw-maximiser",
+  "version": "1.0.0",
+  "description": "ultra wide maximiser",
+  "type": "module",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burg033/ultrawide-maximiser.git"
+  },
+  "author": "Simon Burger <burgr@posteo.de>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/burgr033/ultrawide-maximiser/issues"
+  },
+  "homepage": "https://github.com/burgr033/ultrawide-maximiser#readme",
+  "sideEffects": false,
+  "devDependencies": {
+    "eslint": "^9.25.1",
+    "eslint-plugin-jsdoc": "^50.6.11",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@girs/gjs": "^4.0.0-beta.23",
+    "@girs/gnome-shell": "^48.0.2",
+    "tsc": "^2.0.4"
+  }
+}

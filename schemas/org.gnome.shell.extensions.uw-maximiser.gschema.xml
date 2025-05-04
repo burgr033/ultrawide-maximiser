@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.uw-maximiser"
+    path="/org/gnome/shell/extensions/uw-maximiser/">
+    <key name="window-width-percent" type="i">
+      <default>70</default>
+      <summary>Width percentage</summary>
+      <description>Percentage of screen width to use when maximizing on ultrawide monitors.</description>
+    </key>
+    <key name="aspect-ratio-threshold" type="d">
+      <default>2.3</default>
+      <summary>Aspect ratio threshhold</summary>
+      <description>Everything above this threshold will be considered ultra wide.</description>
+    </key>
+
+  </schema>
+</schemalist>
